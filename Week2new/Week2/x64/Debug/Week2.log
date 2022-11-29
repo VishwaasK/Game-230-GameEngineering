@@ -1,0 +1,59 @@
+﻿  Main.cpp
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(209,57): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(210,57): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(217,15): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(226,145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(226,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(243,57): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(244,57): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(245,15): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(250,53): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(251,52): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(190,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=const int
+          ]
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(233): message : see reference to function template instantiation 'std::pair<const int,sf::Sprite *>::pair<T,sf::Sprite*&,0>(_Other1 &&,_Other2) noexcept' being compiled
+          with
+          [
+              T=float,
+              _Other1=float,
+              _Other2=sf::Sprite *&
+          ]
+D:\Game Dev\UCSC\Game 230\Week2new\Week2\Main.cpp(233): message : see reference to function template instantiation 'std::pair<const int,sf::Sprite *>::pair<T,sf::Sprite*&,0>(_Other1 &&,_Other2) noexcept' being compiled
+          with
+          [
+              T=float,
+              _Other1=float,
+              _Other2=sf::Sprite *&
+          ]
+  Week2.vcxproj -> D:\Game Dev\UCSC\Game 230\Week2new\Week2\x64\Debug\Week2.exe
